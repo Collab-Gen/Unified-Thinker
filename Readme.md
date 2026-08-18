@@ -2,7 +2,7 @@
 <h1>Unified Thinker: A General Reasoning Modular Core for Image Generation</h1>
 
 Sashuai Zhou<sup>1,2*</sup>, Qiang Zhou<sup>2*</sup>, Jijin Hu<sup>2*</sup>, Hanqing Yang<sup>2*</sup>, Yue Cao<sup>3</sup>, Junpeng Ma<sup>4</sup>,  
-Yinchao Ma<sup>2</sup>, Jun Song<sup>2†</sup>, Tiezheng Ge<sup>2</sup>, Cheng Yu<sup>2</sup>, Bo Zheng<sup>2</sup>, Zhou Zhao<sup>1†</sup><br><br><sup>1</sup>Zhejiang University &emsp;&emsp; <sup>2</sup>Alibaba Group &emsp;&emsp; <sup>3</sup>Nanjing University &emsp;&emsp; <sup>4</sup>Fudan University  <br>
+Yinchao Ma<sup>2</sup>, Jun Song<sup>2</sup>, Tiezheng Ge<sup>2</sup>, Cheng Yu<sup>2</sup>, Bo Zheng<sup>2</sup>, Zhou Zhao<sup>1†</sup><br><br><sup>1</sup>Zhejiang University &emsp;&emsp; <sup>2</sup>Alibaba Group &emsp;&emsp; <sup>3</sup>Nanjing University &emsp;&emsp; <sup>4</sup>Fudan University  <br>
 <sup>*</sup> Equal contribution &emsp; <sup>†</sup> Corresponding authors
 <br><br>
 
